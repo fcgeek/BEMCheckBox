@@ -52,13 +52,23 @@
                ReferencedContainer = "container:CheckBox.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "EC0B064D1D48762B008F898E"
+               BuildableName = "EMCheckBoxTests.xctest"
+               BlueprintName = "EMCheckBoxTests"
+               ReferencedContainer = "container:CheckBox.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C32537251B9231780059F394"
-            BuildableName = "CheckBoxTests.xctest"
-            BlueprintName = "CheckBoxTests"
+            BlueprintIdentifier = "C325370C1B9231780059F394"
+            BuildableName = "CheckBox.app"
+            BlueprintName = "CheckBox"
             ReferencedContainer = "container:CheckBox.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -94,6 +104,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C325370C1B9231780059F394"
+            BuildableName = "CheckBox.app"
+            BlueprintName = "CheckBox"
+            ReferencedContainer = "container:CheckBox.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

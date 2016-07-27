@@ -52,6 +52,16 @@
                ReferencedContainer = "container:CheckBox.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "EC0B064D1D48762B008F898E"
+               BuildableName = "EMCheckBoxTests.xctest"
+               BlueprintName = "EMCheckBoxTests"
+               ReferencedContainer = "container:CheckBox.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
