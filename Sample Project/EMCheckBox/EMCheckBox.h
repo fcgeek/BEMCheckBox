@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "EMCheckBox.h"
 
 //! Project version number for EMCheckBox.
 FOUNDATION_EXPORT double EMCheckBoxVersionNumber;
@@ -15,5 +16,3 @@ FOUNDATION_EXPORT double EMCheckBoxVersionNumber;
 FOUNDATION_EXPORT const unsigned char EMCheckBoxVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <EMCheckBox/PublicHeader.h>
-
-
